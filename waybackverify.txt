@@ -1,0 +1,4 @@
+waybackverify.txt
+
+Please exclude my kubalowy102.pl from the WaybackMachine at https://archive.org.
+2022.07.12
