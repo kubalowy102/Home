@@ -1,4 +1,4 @@
-User-agent: ia_archiver
+User-agent: *
 Disallow: /
 Disallow: /tiles/
 Disallow: /js/
